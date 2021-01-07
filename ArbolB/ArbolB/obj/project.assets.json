@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\ArbolB.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\ArbolB.csproj",
       "projectName": "ArbolB",
-      "projectPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\ArbolB.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\ArbolB.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5735,11 +5735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolTest\\ArbolTest.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolTest\\ArbolTest.csproj",
       "projectName": "ArbolTest",
-      "projectPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolTest\\ArbolTest.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolTest\\ArbolTest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolTest\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5756,8 +5756,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\ArbolB.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\ArbolB.csproj"
+            "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\ArbolB.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\ArbolB.csproj"
             }
           }
         }

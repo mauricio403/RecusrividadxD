@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolGenealogico\\ArbolGenealogico.csproj": {}
+    "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolGenealogico\\ArbolGenealogico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\ArbolB.csproj": {
+    "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\ArbolB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\ArbolB.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\ArbolB.csproj",
         "projectName": "ArbolB",
-        "projectPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\ArbolB.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\ArbolB.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolGenealogico\\ArbolGenealogico.csproj": {
+    "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolGenealogico\\ArbolGenealogico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolGenealogico\\ArbolGenealogico.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolGenealogico\\ArbolGenealogico.csproj",
         "projectName": "ArbolGenealogico",
-        "projectPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolGenealogico\\ArbolGenealogico.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolGenealogico\\ArbolGenealogico.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolGenealogico\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolGenealogico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\ArbolB.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\ArbolKhabin\\ArbolB-Recursivo-05-01-2021\\ArbolB\\ArbolB\\ArbolB.csproj"
+              "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\ArbolB.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Recursividad\\RecusrividadxD\\ArbolB\\ArbolB\\ArbolB.csproj"
               }
             }
           }
